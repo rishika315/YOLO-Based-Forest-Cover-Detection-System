@@ -1,0 +1,33 @@
+green_class_ids:
+- 19
+- 3
+- 8
+names:
+- unlabeled
+- paved-area
+- dirt
+- grass
+- gravel
+- water
+- rocks
+- pool
+- vegetation
+- roof
+- wall
+- window
+- door
+- fence
+- fence-pole
+- person
+- dog
+- car
+- bicycle
+- tree
+- bald-tree
+- ar-marker
+- obstacle
+- conflicting
+nc: 24
+path: C:\Users\91986\OneDrive\Documents\CVAPROJECT\yolo_dataset
+train: images/train
+val: images/val
